@@ -81,7 +81,7 @@ class SearchService {
 }
 
 // Main Class
-public class BookMyStay { m
+public class BookMyStay {
     public static void main(String[] args) {
 
         // Create Inventory
